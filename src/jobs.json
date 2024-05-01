@@ -69,6 +69,76 @@
         "contactEmail": "contact@consecteturadipisicing.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "6",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Senior React Developer in San Francisco, CA. We are looking for an experienced individual to lead our front-end development efforts. You'll work on exciting projects and collaborate with a talented team of engineers.",
+      "salary": "$100K - $120K",
+      "location": "San Francisco, CA",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "Tech Innovations Inc. is a cutting-edge technology company focused on revolutionizing various industries through innovative software solutions. Join us and be part of shaping the future!",
+        "contactEmail": "contact@techinnovations.com",
+        "contactPhone": "555-555-5556"
+      }
+    },
+    {
+      "id": "7",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "description": "We're hiring a React Developer to join our team in Seattle, WA. If you're passionate about creating interactive and user-friendly web applications, we want to hear from you. Competitive salary and great benefits package!",
+      "salary": "$80K - $90K",
+      "location": "Seattle, WA",
+      "company": {
+        "name": "Pacific Tech Solutions",
+        "description": "Pacific Tech Solutions is a leading software development company specializing in cutting-edge solutions for businesses worldwide. Join our team and be part of shaping the future of technology.",
+        "contactEmail": "contact@pacificts.com",
+        "contactPhone": "555-555-5557"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Front-End Developer (React)",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Front-End Developer specializing in React to join our team in Chicago, IL. You'll work on innovative projects and collaborate with a talented team to deliver exceptional results.",
+      "salary": "$85K - $95K",
+      "location": "Chicago, IL",
+      "company": {
+        "name": "InnovateX Solutions",
+        "description": "InnovateX Solutions is a leading technology company dedicated to providing innovative solutions to businesses worldwide. Join us and be part of a dynamic and fast-paced work environment.",
+        "contactEmail": "contact@innovatex.com",
+        "contactPhone": "555-555-5558"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Front-End Developer (React Native)",
+      "type": "Full-Time",
+      "description": "Join our team in Austin, TX, as a Front-End Developer specializing in React Native. You'll work on exciting mobile app projects and collaborate with a passionate team of developers.",
+      "salary": "$75K - $85K",
+      "location": "Austin, TX",
+      "company": {
+        "name": "NexGen Apps",
+        "description": "NexGen Apps is a leading mobile app development company dedicated to creating innovative and user-friendly applications. Join us and be part of shaping the future of mobile technology.",
+        "contactEmail": "contact@nexgenapps.com",
+        "contactPhone": "555-555-5559"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Remote React Developer",
+      "type": "Full-Time",
+      "description": "Looking for a Remote React Developer to join our distributed team. Work from anywhere and collaborate with a talented group of developers on exciting projects. Competitive salary and flexible work hours!",
+      "salary": "$80K - $90K",
+      "location": "Remote",
+      "company": {
+        "name": "Digital Nomad Co.",
+        "description": "Digital Nomad Co. is a remote-first company dedicated to providing flexible work opportunities for developers worldwide. Join us and enjoy the freedom of remote work!",
+        "contactEmail": "contact@digitalnomad.com",
+        "contactPhone": "555-555-5560"
+      }
     }
   ]
 }
